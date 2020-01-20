@@ -33,7 +33,7 @@ DH, text mining, quantitative analyse, Meiji-Taisho fiction writings
 __Russian State Universty for the Humanities, Moscow, Russia.__
 
 `2009-2010`
-__Japanese studies student at Chiba Univesrity, Chiba, Japan.__
+__Monbukagakusho student at Chiba Univesrity, Chiba, Japan.__
 
 `August 2018`
 __Fifth Graduate Summer School in Japanese Early-modern Palaeography, Emmanuel College, Cambridge.__
@@ -57,7 +57,7 @@ Courses:
 ## Awards
 
 `2019`
-Best Teacher - 2019, NRU 'Higher Scool of Economics', Moscow.
+Best Teacher - 2019, HSE University, Moscow.
 
 
 ## Publications
@@ -90,7 +90,7 @@ Chapter Oskina A. Повседневная жизнь в женских школ
 Article Оськина А. С. Кайбара Экикэн и его "Правила воспитания девочек" // Япония. Ежегодник. 2013. С. 198-215.
 
 
-##Conferences
+## Conferences
 
 `2018` 20-я ежегодная конференция "История и культура Японии" (Москва). Presentation: История библиотеки поэтического дома Рэйдзэй
 201719-я ежегодная конференция "История и культура Японии" (Москва). Presentation: Воспитание книгой в эпоху Эдона примере «ЭхонХанакадзура» (1765г.)
