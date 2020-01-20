@@ -1,91 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Anna Oskina's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Anna Oskina
+Lecturer at HSE, Master's student in DH.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="annaoskina@gmail.com">annaoskina@gmail.com</a>
+| <a href="https://github.com/annaoskina">My GitHub page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Lecturer of contemporary and classical Japanese at HSE
+Master's 1st grade student in Digital Humanities at HSE
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Japanese classical literature, travel diaries, kuzushi-ji, xylographs, handwritings, book history
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+DH, text mining, quantitative analyse
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2006-2011`
+__Russian State Universty for the Humanities, Moscow, Russia.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2009-2010`
+__Japanese studies student at Chiba Univesrity, Chiba, Japan.__
 
-- Sizar
+`August 2018`
+__Fifth Graduate Summer School in Japanese Early-modern Palaeography, Emmanuel College, Cambridge.__
 
-`1667 - death`
-__Trinity College, Cambridge__
+`February 2019`
+__EAJRS/NIJL Kuzushi-ji Workshop 2019, Collège de France, Paris.
 
-- Fellow
 
+## Occupation
+
+`2011-now`
+__Lecturer at National Research University 'Higher School of Economics', Moscow.__ 
+
+Courses:
+- Contemporary Japanese
+- Classical Japanese
+- Japananese literature
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2019`
+Best-teacher 2019 at HSE.
 
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: January 2020 -->
 
 
