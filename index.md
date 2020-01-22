@@ -2,9 +2,7 @@
 title: "Anna Oskina's CV"
 author: "Anna Oskina"
 date: "20.01.2020"
-output:
-  pdf_document: default
-  html_document: default
+output: html_document
 ---
 # Anna Oskina
 Lecturer at HSE University, Master's student in DH.
