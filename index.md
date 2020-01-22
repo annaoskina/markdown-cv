@@ -1,6 +1,10 @@
 ---
-layout: cv
-title: Anna Oskina's CV
+title: "Anna Oskina's CV"
+author: "Anna Oskina"
+date: "20.01.2020"
+output:
+  pdf_document: default
+  html_document: default
 ---
 # Anna Oskina
 Lecturer at HSE University, Master's student in DH.
@@ -19,7 +23,7 @@ Master's 1st grade student in Digital Humanities at HSE University
 
 ### Specialized in
 
-Japanese classical literature, travel diaries, kuzushi-ji, xylographs, handwritings, book history
+Japanese classical literature, travel diaries, kuzushi-ji, xylographs, manuscripts, book history
 
 
 ### Research interests
@@ -30,7 +34,7 @@ DH, text mining, quantitative analyse, Meiji-Taisho fiction writings
 ## Education
 
 `2006-2011`
-__Russian State Universty for the Humanities, Moscow, Russia.__
+__Russian State University for the Humanities, Moscow, Russia.__
 
 `2009-2010`
 __Monbukagakusho student at Chiba Univesrity, Chiba, Japan.__
@@ -46,12 +50,14 @@ __EAJRS/NIJL Kuzushi-ji Workshop 2019, Collège de France, Paris.__
 
 `2011-now`
 __Lecturer at National Research University 'Higher School of Economics', Moscow.__ 
+
 <a href="https://www.hse.ru/en/staff/annaoskina">https://www.hse.ru/en/staff/annaoskina</a>
 
 Courses:
-- Contemporary Japanese
-- Classical Japanese
-- Japanese literature
+
+* Contemporary Japanese
+* Classical Japanese
+* Japanese literature
 
 
 ## Awards
@@ -62,67 +68,78 @@ Best Teacher - 2019, HSE University, Moscow.
 
 ## Publications
 
-Article Оськина А. С., Пасивкина С. А. «Полезные записи об изготовлении бумаги» («Камисуки тёхоки») как первое иллюстрированное руководство по изготовлению бумаги // Японские исследования. 2018. № 3. С. 49-77.
+`Article` Oskina A., Pasivkina S. The Precious Notes on Papermaking» (“Kamisuki Cho:ho:ki”) as the first illustrated Guide to Papermaking // Japanese Studies in Russia, 2018. № 3. Pp. 49-77. (in Russian)
 
 
-Article Оськина А. С. Два дневника монахини Абуцу (1221?-1283): литература, биография, личность // Вестник РГГУ. Серия: История. Филология. Культурология. Востоковедение. 2018. № 12 (45). С. 251-269.
-Chapter Оськина А. С. Монахиня Абуцу и поэтический дом Микохидари. Предисловие к дорожным записям монахини Абуцу. Перевод и комментарии А. С. Оськиной // В кн.: История и культура Японии 11 / Отв. ред.: А. Н. Мещеряков; под общ. ред.: И. С. Смирнов. СПб. : Гиперион, 2018. С. 130-145.
+`Article` Oskina A. Two Diaries of the Nun Abutsu (1221?-1283): Literature, Biography, Personality.// RGGU Bulletin. History. Philology. Cultural Studies. Oriental Studies. 2018. № 12 (45). Pp. 251-269. (in Russian)
 
 
-Chapter Оськина А. С. Иллюстрированная книга "Ханакадзура" // В кн.: Survival and Sustainability: Contemporary Studies in Humanities 2 Issue 314. Chiba University, 2017. Гл. 3. С. 56-72.
+`Chapter` Oskina A. Illustrated book "Ehon Hanakazura" // Survival and Sustainability: Contemporary Studies in Humanities 2 Issue 314. Chiba University, 2017. Chapter. 3. Pp. 56-72. (in Russian and Japanese)
 
 
-Chapter Оськина А. С. Иллюстрированная книга "Эхон Ханакадзура" (1765 г.): воспитание книгой в эпоху Эдо // В кн.: История и культура традиционной Японии 10. Orientalia et Classica. Труды Института восточных культур и античности. Выпуск LXIX / Отв. ред.: А. Н. Мещеряков; под общ. ред.: И. Смирнов. СПб. : Гиперион, 2017. С. 176-195.
+`Chapter` Oskina A. Illustrated book "Ehon Hanakazura" (1765): Education Books in the Edo Period // History and Culure of Traditional Japan 10. Orientalia et Classica. Volume LXIX. St.Petersburg: Hyperion, 2017. Pp. 176-195. (in Russian)
 
 
-Chapter Оськина А. С. Мотивы и намерения авторов при написании дневников на примере "Дневника шестнадцатой ночи" монахини Абуцу и "Записок" княгини Дашковой // В кн.: Literature and History: Representation and Narrative Issue 289. Chiba : Chiba University, 2015. С. 83-99.
+`Chapter` Oskina A. Motives and Intentions of the Authors in Diaries Based on "The Diary of the Waning Moon" by the Nun Abutsu and "The Notes" by Princess Dashkova // Literature and History: Representation and Narrative Issue 289. Chiba University, 2015. Pp. 83-99. (in Russian)
 
 
-Article Оськина А. С. Дневник "Идзаёи никки" монахини Абуцу: содержание, композиция, стиль // Вестник Новосибирского государственного университета. 2014. Т. 13. № 4. С. 153-158.
+`Article` Oskina A. "The Diary of the Waning Moon": Content, Composition, Style // Vestnik Novosibirsk State University: History and Philology. 2014. Vol. 13. № 4. Pp. 153-158. (in Russian)
 
 
-Chapter Оськина А. С. Отличительные особенности дневника "Идзаёи никки" монахини Абуцу (1221?-1283) // В кн.: Восточные общества: традиции и современность: Материалы II Съезда молодых востоковедов стран СНГ, Баку, 11-14 ноября 2013 года. М., Б. : Центр стратегических исследований при Президенте Азербайджанской Республики, 2014. С. 328-342.
+`Chapter` Oskina A. Distinctive features of "The Diary of the Waning Moon" by the Nun Abutsu (1221?-1283) // Oriental Societies: Traditions and Modernity. Moscow, Baku: Center for Strategic Studies under the President of Azerbaijan, 2014. Pp. 328-342. (in Russian)
 
 
-Chapter Oskina A. Повседневная жизнь в женских школах высшей ступени, in: Alsace nichio chiteki koryu jigyo nihon kenkyu seminar “Taisho – Showa prewar” ronbun-shu (Сборник статей участников семинара «эпохи Тайсё – Сёва (до Второй мировой войны) по программе японско-европейского интеллектуального обмена, г. Эльзас). Strasbourg : Centre européen d’études japonaises d’Alsace, 2014.
+`Chapter` Oskina A. 高等女学校の日常生活：女学生の楽しみや悩み　//　アルザス日欧知的交流事業　日本研究セミナー［大正／戦前］報告書. Strasbourg : Centre européen d’études japonaises d’Alsace, 2014. (in Japanese)
 
 
-Article Оськина А. С. Кайбара Экикэн и его "Правила воспитания девочек" // Япония. Ежегодник. 2013. С. 198-215.
+`Article` Oskina A. Kaibara Ekken and his "Precepts for girls" // Japan. Annuary. 2013. Pp. 198-215. (in Russian)
 
 
 ## Conferences
 
-`2018` 20-я ежегодная конференция "История и культура Японии" (Москва). Presentation: История библиотеки поэтического дома Рэйдзэй
-201719-я ежегодная конференция "История и культура Японии" (Москва). Presentation: Воспитание книгой в эпоху Эдона примере «ЭхонХанакадзура» (1765г.)
+`2019` 21th Annual Conference "History and Culture of Japan" (Moscow). Presentation: Travel notes of the Nun Abutsu: connection with the literary tradition.
 
 
-`2014` 16-я ежегодная конференция "История и культура Японии" (Москва). Presentation: Проза и поэзия в дневнике «Идзаёи никки» монахини Абуцу (1221?-1283)
+`2018`  20th Annual Conference "History and Culture of Japan" (Moscow). Presentation: The History of the Reizei Family Library.
 
 
-`2013`
-15-я ежегодная конференция "История и культура Японии" (Москва). Presentation: Монахиня Абуцу и "Повесть о Гэндзи" 
+`2017`  19th Annual Conference "History and Culture of Japan" (Moscow). Presentation: Education with a book in the Edo Period based on "Ehon Hanakazura" (1765).
 
 
-Письменные памятники Востока. Проблемы интерпретации и перевода (Москва). Presentation: Проблема перевода «Идзаёи никки» монахини Абуцу (1221?-1283): цитаты и аллюзии
+`2014`  16th Annual Conference "History and Culture of Japan" (Moscow). Presentation: Prose and poetry in the nun Abutsu's (1221?-1283) "The Diary of the Waning Moon".
 
 
-European Association of Japanese Resource Specialists Conference 2013 (Париж). Presentation: Illustrated book "Ehon hanakazura" (1765): pictures, poems, proverbs 
+`2013`  15th Annual Conference "History and Culture of Japan" (Moscow). Presentation: The nun Abutsu and "The Tale of Genji".
 
 
-2-й Съезд молодых востоковедов России и СНГ (Баку). Presentation: Отличительные особенности дневника «Идзаёи никки»
-2012XIV-я международная конференция “История и культура Японии” (Москва). Presentation: Из столицы в столицу: путешествия из Хэйан в Камакура
+Written Monuments of the East. The Problems of Interpretation and Translation (Moscow). Presentation: The problems in translation of "Izayoi nikki" by the nun Abutsu: quotes and allusions.
 
 
-«Невские чтения» международный симпозиум в честь 120-летия со дня рождения Н. А. Невского (Санкт-Петербург). Presentation: Дневники Абуцу-ни как материал для ее биографии
-Текстология Востока: опыт интерпретации и перевода источников (Москва). Presentation: Дневники монахини Абуцу (1221?-1283) как источник ее биографии 
+European Association of Japanese Resource Specialists Conference 2013 (Paris). Presentation: Illustrated book "Ehon hanakazura" (1765): pictures, poems, proverbs.
+
+
+2nd Congress of Young Orientalists of Russia and the CIS (Baku). Presentation: Distinctive features of "The Diary of the Waning Moon" by the nun Abutsu (1221?-1283).
+
+
+`2012`  14th Annual Conference "History and Culture of Japan" (Moscow). Presentation: From capital to capital: the travelling in Heian and Edo periods.
+
+
+Nikolai Nevsky Memorial Conference - International Symposium in Honor of the 120th Birthday of N.A. Nevsky (St. Petersburg). Presentation: The diaries of the nun Abutsu as a source for her biography.
+
 
 `2011`
-XIII-я международная конференция “История и культура Японии” (Москва). Presentation: Великие поучения для женщин»: от Кайбара Экикэна до Фукудзава Юкити 
+13th Annual Conference "History and Culture of Japan" (Moscow). Presentation: "The Great Learning for women": from Kaibara Ekken to Fukuzawa Yukichi.
 
 
-Japanese Study Seminar - Taisho Prewar (Showa) (Эльзас). Presentation: Повседневная жизнь в женских школах высшей ступени в эпоху Тайсё
-2010Конференция молодых японоведов (Санкт-Петербург). Presentation: Кайбара Экикэн и Фукудзава Юкити: старый и новый взгляд на женское воспитание
-2009XI-я международная конференция “История и культура Японии” (Москва). Presentation: Кайбара Экикэн. Воспитание девочек в эпоху Токугава
+Japanese Study Seminar - Taisho Prewar (Showa) (Alsace). Presentation: Everyday Life in Women High Schools in the Taisho period.
+
+
+`2010`
+Conference of Young Japanologists (St. Petersburg). Presentation: Kaibara Ekken and Fukuzawa Yukichi: old and new views on women education.
+
+
+`2009`
+11th Annual Conference "History and Culture of Japan" (Moscow). Presentation: Kaibara Ekken and women learning in the Edo period.
 
 
 <!-- ### Footer
